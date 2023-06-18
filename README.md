@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bakare Praise Stephen</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://praisebakare.com/](https://praisebakare.com/)
+- 👨‍💻 Portfolio at [https://praisebakare.com/](https://praisebakare.com/)
+
+- 👨‍💻 All of my projects are available at
+- To do list [https://todolist.praisebakare.com/](https://todolist.praisebakare.com/)
+- Chat App [https://chatapp.praisebakare.com/signup](https://chatapp.praisebakare.com/signup)
+- Authentication System [https://authentication.praisebakare.com/](https://authentication.praisebakare.com/)
+- Image Uploader [https://github.com/Praizb/file_uploader_server](https://github.com/Praizb/file_uploader_server)
+- File Converter [https://converter.praisebakare.com/](https://converter.praisebakare.com/)
+- Landmark University Choir Website [https://choir-lmu.onrender.com/](https://choir-lmu.onrender.com/)
 
 - 📫 How to reach me **bakarepraise3@gmail.com**
 
