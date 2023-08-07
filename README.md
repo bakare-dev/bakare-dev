@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bakarepraise3@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/f4DXMfrqL](https://resume.io/r/f4DXMfrqL)
+- 📄 Know about my experiences [https://praisebakare.com/static/resume/bakarepraise.pdf](https://praisebakare.com/static/resume/bakarepraise.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
