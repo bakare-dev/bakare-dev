@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bakare Praise Stephen</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">Analytical and results-driven backend software engineer with a passion for troubleshooting and enhancing existing applications. Proven expertise in coding, debugging, and creating efficient, sustainable solutions. Committed to improving user experiences by implementing modern technologies and best practices. Excited to contribute technical skills and a strong dedication to excellence in a collaborative team environment.</h3>
 
 - 👨‍💻 Portfolio at [https://bakare.tech/](https://bakare.tech/)
 
