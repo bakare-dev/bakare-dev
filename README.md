@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Bakare Praise Stephen</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 👨‍💻 Portfolio at [https://praisebakare.com/](https://praisebakare.com/)
+- 👨‍💻 Portfolio at [https://bakare.tech/](https://bakare.tech/)
 
 - 👨‍💻 All of my projects are available at
-- To do list [https://todolist.praisebakare.com/](https://todolist.praisebakare.com/)
-- Chat App [https://chatapp.praisebakare.com/signup](https://chatapp.praisebakare.com/signup)
-- Authentication System [https://authentication.praisebakare.com/](https://authentication.praisebakare.com/)
-- Image Uploader [https://github.com/Praizb/file_uploader_server](https://github.com/Praizb/file_uploader_server)
-- File Converter [https://converter.praisebakare.com/](https://converter.praisebakare.com/)
+- To do list [https://todolist.bakare.tech/](https://todolist.bakare.tech/)
+- Chat App [https://chatapp.bakare.tech/signup](https://chatapp.bakare.tech/signup)
+- Authentication System [https://authentication.bakare.tech/](https://authentication.bakare.tech/)
+- Image Uploader [https://github.com/bakare-dev/file_uploader_server](https://github.com/bakare-dev/file_uploader_server)
+- File Converter [https://converter.bakare.tech/](https://converter.bakare.tech/)
 - Landmark University Choir Website [https://choir-lmu.onrender.com/](https://choir-lmu.onrender.com/)
 
 - 📫 How to reach me **bakarepraise3@gmail.com**
