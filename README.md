@@ -8,8 +8,7 @@
 - Chat App [https://chatapp.bakare.tech/signup](https://chatapp.bakare.tech/signup)
 - Authentication System [https://authentication.bakare.tech/](https://authentication.bakare.tech/)
 - Image Uploader [https://github.com/bakare-dev/file_uploader_server](https://github.com/bakare-dev/file_uploader_server)
-- File Converter [https://converter.bakare.tech/](https://converter.bakare.tech/)
-- Landmark University Choir Website [https://choir-lmu.onrender.com/](https://choir-lmu.onrender.com/)
+- Landmark University Choir Website [https://choir.bakare.tech/](https://choir.bakare.tech/)
 
 - 📫 How to reach me **bakarepraise3@gmail.com**
 
