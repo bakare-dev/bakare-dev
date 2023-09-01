@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at
 - To do list [https://todolist.bakare.tech/](https://todolist.bakare.tech/)
-- Real Estate Application(Landlord) [https://landlord-realestate.bakare.tech/sign-in](https://landlord-realestate.bakare.tech/sign-in)
-- Real Estate Application(Tenant) [https://tenant-realestate.bakare.tech/sign-in](https://tenant-realestate.bakare.tech/sign-in)
 - Chat App [https://chatapp.bakare.tech/signup](https://chatapp.bakare.tech/signup)
 - Authentication System [https://authentication.bakare.tech/](https://authentication.bakare.tech/)
 - Image Uploader [https://github.com/bakare-dev/file_uploader_server](https://github.com/bakare-dev/file_uploader_server)
