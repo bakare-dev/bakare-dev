@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bakare Praise Stephen</h1>
-<h3 align="center">Analytical and results-driven backend software engineer with a passion for troubleshooting and enhancing existing applications. Proven expertise in coding, debugging, and creating efficient, sustainable solutions. Committed to improving user experiences by implementing modern technologies and best practices. Excited to contribute technical skills and a strong dedication to excellence in a collaborative team environment.</h3>
+<h3 align="center">I am dedicated to delivering high-quality, reliable, and scalable backend solutions that drive innovation and enhance user experiences. My portfolio showcases projects that demonstrate my ability to tackle complex challenges. If you're looking for a skilled Software Engineer to contribute to your team or project, feel free to get in touch with me. I am excited to take on new challenges and collaborate on exciting projects in the world of backend engineering.</h3>
 
 - 👨‍💻 Portfolio at [https://bakare.tech/](https://bakare.tech/)
 
 - 👨‍💻 All of my projects are available at
 - To do list [https://todolist.bakare.tech/](https://todolist.bakare.tech/)
 - Chat App [https://chatapp.bakare.tech/signup](https://chatapp.bakare.tech/signup)
+- Landlord Real Estate [https://owner.propmanx.com/](https://owner.propmanx.com/)
+- Tenant Real Estate [https://tenant.propmanx.com/](https://tenant.propmanx.com/)
 - Authentication System [https://authentication.bakare.tech/](https://authentication.bakare.tech/)
 - Image Uploader [https://github.com/bakare-dev/file_uploader_server](https://github.com/bakare-dev/file_uploader_server)
 - Landmark University Choir Website [https://choir.bakare.tech/](https://choir.bakare.tech/)
