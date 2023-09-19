@@ -9,7 +9,6 @@
 - Landlord Real Estate [https://owner.propmanx.com/](https://owner.propmanx.com/)
 - Tenant Real Estate [https://tenant.propmanx.com/](https://tenant.propmanx.com/)
 - Authentication System [https://authentication.bakare.tech/](https://authentication.bakare.tech/)
-- Image Uploader [https://github.com/bakare-dev/file_uploader_server](https://github.com/bakare-dev/file_uploader_server)
 - Landmark University Choir Website [https://choir.bakare.tech/](https://choir.bakare.tech/)
 
 - 📫 How to reach me **bakarepraise3@gmail.com**
