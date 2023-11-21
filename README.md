@@ -4,12 +4,10 @@
 - 👨‍💻 Portfolio at [https://bakare.tech/](https://bakare.tech/)
 
 - 👨‍💻 All of my projects are available at
-- To do list [https://todolist.bakare.tech/](https://todolist.bakare.tech/)
-- Chat App [https://chatapp.bakare.tech/signup](https://chatapp.bakare.tech/signup)
 - Landlord Real Estate [https://owner.propmanx.com/](https://owner.propmanx.com/)
 - Tenant Real Estate [https://tenant.propmanx.com/](https://tenant.propmanx.com/)
-- Authentication System [https://authentication.bakare.tech/](https://authentication.bakare.tech/)
-- Landmark University Choir Website [https://choir.bakare.tech/](https://choir.bakare.tech/)
+- Discussion Forum API [https://discussionapi.bakare.tech/](https://discussionapi.bakare.tech/)
+- Landmark University Choir Website [https://tophod.bakare.tech/](https://tophod.bakare.tech/)
 
 - 📫 How to reach me **bakarepraise3@gmail.com**
 
