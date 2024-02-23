@@ -6,12 +6,12 @@
 - 👨‍💻 All of my projects are available at
 - Landlord Real Estate [https://owner.propmanx.com/](https://owner.propmanx.com/)
 - Tenant Real Estate [https://tenant.propmanx.com/](https://tenant.propmanx.com/)
-- Discussion Forum API [https://discussionapi.bakare.tech/](https://discussionapi.bakare.tech/)
+- Discussion Forum API [https://discussionapi.bakare.tech/swagger](https://discussionapi.bakare.tech/swaggger)
 - Landmark University Choir Website [https://tophod.bakare.tech/](https://tophod.bakare.tech/)
 
 - 📫 How to reach me **bakarepraise3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UhOP5tk22Ey9KcPx_yXumhvABiZY0_qF/view?usp=sharing](https://drive.google.com/file/d/1UhOP5tk22Ey9KcPx_yXumhvABiZY0_qF/view?usp=sharing)
+- 📄 Know about my experiences [https://resume.io/r/f4DXMfrqL](https://resume.io/r/f4DXMfrqL)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
