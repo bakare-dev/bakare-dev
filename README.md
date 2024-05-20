@@ -28,7 +28,7 @@ Feel free to reach out to me at bakarepraise3@gmail.com
 
 ## GitHub Stats
 
-![Bakare's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakare-dev&show_icons=true)
+![Bakare's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakare-dev&layout=compact)
 
 ## Wakatime Stats
 
