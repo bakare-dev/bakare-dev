@@ -20,7 +20,7 @@ I love building solutions that solve real-world problems.
 
 ## Resume
 
-Check out my detailed resume [here](https://github.com/bakare-dev/bakare-dev/blob/main/BAKARE%20PRAISE%20RESUME.pdf).
+Download my resume [here](https://github.com/bakare-dev/bakare-dev/raw/main/BAKARE%20PRAISE%20RESUME.pdf).
 
 ## Contact
 
@@ -28,4 +28,8 @@ Feel free to reach out to me at bakarepraise3@gmail.com
 
 ## GitHub Stats
 
-![Praise's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakare-dev&show_icons=true)
+![Bakare's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakare-dev&show_icons=true)
+
+## Wakatime Stats
+
+![Bakare's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bakare-dev)
