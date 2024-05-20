@@ -35,9 +35,3 @@ Feel free to reach out to me at bakarepraise3@gmail.com
 [![wakatime](https://wakatime.com/badge/user/91641c7b-cd83-43eb-99da-c8b8aa85f763.svg)](https://wakatime.com/@91641c7b-cd83-43eb-99da-c8b8aa85f763)
 
 ![Bakare's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=91641c7b-cd83-43eb-99da-c8b8aa85f763)
-
-## Awards and Certifications
-
-- JavaScript (Basic) Certification [View](https://www.hackerrank.com/certificates/1c1828380e0f)
-- JavaScript (Intermediate) Certification [View](https://www.hackerrank.com/certificates/1c1828380e0f)
-- Node (Basic) Certification [View](https://www.hackerrank.com/certificates/4c8ab7d8ccc8)
