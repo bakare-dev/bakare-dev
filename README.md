@@ -32,7 +32,9 @@ Feel free to reach out to me at bakarepraise3@gmail.com
 
 ## Wakatime Stats
 
-![Bakare's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bakare_dev)
+[![wakatime](https://wakatime.com/badge/user/91641c7b-cd83-43eb-99da-c8b8aa85f763.svg)](https://wakatime.com/@91641c7b-cd83-43eb-99da-c8b8aa85f763)
+
+![Bakare's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=91641c7b-cd83-43eb-99da-c8b8aa85f763)
 
 ## Awards and Certifications
 
