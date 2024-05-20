@@ -32,4 +32,10 @@ Feel free to reach out to me at bakarepraise3@gmail.com
 
 ## Wakatime Stats
 
-![Bakare's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bakare-dev)
+![Bakare's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bakare_dev)
+
+## Awards and Certifications
+
+- JavaScript (Basic) Certification [View](https://www.hackerrank.com/certificates/1c1828380e0f)
+- JavaScript (Intermediate) Certification [View](https://www.hackerrank.com/certificates/1c1828380e0f)
+- Node (Basic) Certification [View](https://www.hackerrank.com/certificates/4c8ab7d8ccc8)
