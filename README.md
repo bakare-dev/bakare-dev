@@ -1,26 +1,29 @@
-<h1 align="center">Hi 👋, I'm Bakare Praise Stephen</h1>
-<h3 align="center">I am dedicated to delivering high-quality, reliable, and scalable backend solutions that drive innovation and enhance user experiences. My portfolio showcases projects that demonstrate my ability to tackle complex challenges. If you're looking for a skilled Software Engineer to contribute to your team or project, feel free to get in touch with me. I am excited to take on new challenges and collaborate on exciting projects in the world of backend engineering.</h3>
+# Praise Bakare - Backend Engineer
 
-- 👨‍💻 Portfolio at [https://bakare.tech/](https://bakare.tech/)
+[![Twitter](https://img.shields.io/twitter/follow/bakare_dev?style=social)](https://twitter.com/bakare_dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/praise-bakare-5648971b0)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/bakare_dev/)
 
-- 👨‍💻 All of my projects are available at
-- Landlord Real Estate [https://owner.propmanx.com/](https://owner.propmanx.com/)
-- Tenant Real Estate [https://tenant.propmanx.com/](https://tenant.propmanx.com/)
-- Discussion Forum API [https://discussionapi.bakare.tech/swagger](https://discussionapi.bakare.tech/swaggger)
-- Landmark University Choir Website [https://tophod.bakare.tech/](https://tophod.bakare.tech/)
+I love building solution that solves a problem.
 
-- 📫 How to reach me **bakarepraise3@gmail.com**
+## Skills
 
-- 📄 Know about my experiences [https://bakare.tech/static/BAKARE%20PRAISE%20RESUME.pdf](https://bakare.tech/static/BAKARE%20PRAISE%20RESUME.pdf)
+- Node.js ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+- Redis ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+- C# ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+- Express ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bakare_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bakare_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/praise-bakare-5648971b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praise-bakare-5648971b0" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/bakare_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bakare_dev/" height="30" width="40" /></a>
-</p>
+## Resume
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Check out my detailed resume [here](link_to_resume_github_repo).
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Praizb="praisebakare" /></p>
+## Contact
+
+Feel free to reach out to me at bakarepraise3@gmail.com
+
+## GitHub Stats
+
+![Praise's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakarepraise&show_icons=true)
