@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/praise-bakare-5648971b0)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/bakare_dev/)
 
-I love building solution that solves a problem.
+I love building solutions that solve real-world problems.
 
 ## Skills
 
@@ -15,10 +15,12 @@ I love building solution that solves a problem.
 - C# ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 - Express ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 - JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- Amazon S3 ![S3](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazon-s3&logoColor=white)
+- Git (Version Control) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## Resume
 
-Check out my detailed resume [here](link_to_resume_github_repo).
+Check out my detailed resume [here](https://github.com/bakare-dev/bakare-dev/blob/main/BAKARE%20PRAISE%20RESUME.pdf).
 
 ## Contact
 
@@ -26,4 +28,4 @@ Feel free to reach out to me at bakarepraise3@gmail.com
 
 ## GitHub Stats
 
-![Praise's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakarepraise&show_icons=true)
+![Praise's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakare-dev&show_icons=true)
