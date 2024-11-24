@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bakare Praise</h1>
 <h3 align="center">A Backend Developer</h3>
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **how to fly an airplane 🤣**
 
 - 👨‍💻 All of my projects are available at [bakare.vercel.app](bakare.vercel.app)
 
