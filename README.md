@@ -3,11 +3,11 @@
 ## Hi, I'm Praise Bakare
 
 ## 🌐 Links
-- [Portfolio](https://bakare.vercel.app/)  
+- [Portfolio](https://bakaredev.site/)  
 - [LinkedIn](https://www.linkedin.com/in/praise-bakare-5648971b0/)  
 - [Resume](https://bakare.vercel.app/BAKARE_PRAISE_STEPHEN.pdf)
 
 
 
-- [Articles](https://bakare.vercel.app/articles)
+- [Articles](https://bakaredev.site/articles)
 
